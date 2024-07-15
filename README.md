@@ -1,0 +1,3 @@
+In the present day, machine learning and computer vision technologies have become significantly influential in various fields. This project aims to develop a model that can accurately detect and classify different materials within a bedroom. This capability will assist users in identifying the types of materials used for bedroom decor, such as curtains, carpets, beds, lamps, and more.
+
+ในปัจจุบัน เทคโนโลยีการเรียนรู้ของเครื่อง และการมองเห็นด้วยคอมพิวเตอร์ ได้เข้ามามีบทบาทสำคัญในหลาย ๆ ด้าน โครงการนี้มีวัตถุประสงค์เพื่อพัฒนาโมเดลที่สามารถตรวจจับและจำแนกวัสดุต่าง ๆ ภายในห้องนอนได้อย่างแม่นยำ ซึ่งจะช่วยให้ผู้ใช้สามารถระบุประเภทของวัสดุที่ใช้ในการตกแต่งห้องนอน เช่น ผ้าม่าน พรม เตียง โคมไฟ เป็นต้น
